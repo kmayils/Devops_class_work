@@ -1,7 +1,7 @@
 this is first file
-
+<<<<<<< HEAD
 This is updated in Feature1 branch
-
+=======
 This is updated in main branch
-
-
+This is updated in Feature12 branch
+>>>>>>> master
